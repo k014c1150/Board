@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<form method ="post" action ="thread.php">
-		<input type = "text" name = "name" value = "user name">
+		<input type = "text" name = "name" placeholder = "user name">
 		<input type = "submit" value = "login" name ="login">
 		</form>
 	</body>
